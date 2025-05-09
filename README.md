@@ -112,6 +112,7 @@ src/
 │   ├── whatsapp.client.ts
 │   └── index.ts
 └── main.ts           # Entry point
+└── types.ts     
 
 ```
 🚨 Troubleshooting
