@@ -36,9 +36,9 @@
 
 ### 2. Installation
 ```bash
+
 # Clone the repository
-git clone https://github.com/yourusername/whatsapp-ai-assistant.git
-cd whatsapp-ai-assistant
+git clone https://github.com/ardr000005/WA-Gemini.git
 
 # Install dependencies
 npm install
@@ -49,11 +49,19 @@ Then edit the .env file to add your Gemini API key:
 
 env
 GEMINI_API_KEY=your_actual_key_here
+
 3. Running the Bot
+
 bash
 npx tsx src/main.ts
+
 📱 Scan the QR code that appears using WhatsApp:
 WhatsApp → Settings → Linked Devices → Link a Device
+
+Your whatsapp will act as a bot
+
+Send a message from another number
+
 ```
 
 <div align="center" style="border-radius: 15px; border: 2px solid #6e48aa; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #e4f0ff 100%); margin: 25px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
